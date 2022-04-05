@@ -1,0 +1,13 @@
+.blog-container {
+    display: grid;
+}
+.blog-container h1{
+    text-align: center;
+}
+
+.question-container{
+    background-color:aliceblue;
+    margin: 10px;
+    padding: 20px;
+    border-radius: 10px;
+}
