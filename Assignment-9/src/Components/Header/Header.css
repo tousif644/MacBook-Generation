@@ -1,0 +1,15 @@
+.nav-container{
+    margin-top: px;
+    margin-bottom: 50px;
+    text-align: center;
+}
+.nav-container a{
+    text-decoration: none;
+    color: red;
+    margin-right: 25px;
+    font-size: 20px;
+}
+.nav-container a:hover{
+    color: black;
+    transition: .5s all ease-in-out;
+}
